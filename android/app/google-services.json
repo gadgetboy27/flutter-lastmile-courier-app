@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "864233257682",
+    "project_id": "door-post",
+    "storage_bucket": "door-post.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864233257682:android:15bea65d087694b344cb0b",
+        "android_client_info": {
+          "package_name": "com.example.doorpost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864233257682-d6g5qit8mhr76kv37rglget3b2bv1kqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx0nOM2zdL41lHp9KL_sEA2zuelUAxY5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864233257682-d6g5qit8mhr76kv37rglget3b2bv1kqq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "864233257682-94oo8rflrvjcaev9mmft66it2osergd3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "doorpost"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
